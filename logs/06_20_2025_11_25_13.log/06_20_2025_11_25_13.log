@@ -1,0 +1,6 @@
+[ 2025-06-20 11:25:15,754 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-06-20 11:25:15,757 ] 107 dagshub - INFO - Accessing as vinodullistudy
+[ 2025-06-20 11:25:16,307 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/vinodullistudy/e2e_datascience_mlops "HTTP/1.1 200 OK"
+[ 2025-06-20 11:25:16,814 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-06-20 11:25:16,817 ] 107 dagshub - INFO - Initialized MLflow to track repo "vinodullistudy/e2e_datascience_mlops"
+[ 2025-06-20 11:25:16,817 ] 107 dagshub - INFO - Repository vinodullistudy/e2e_datascience_mlops initialized!
