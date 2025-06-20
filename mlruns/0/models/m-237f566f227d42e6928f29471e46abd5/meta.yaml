@@ -1,0 +1,10 @@
+artifact_location: file:///E:/e2e_datascience_mlops/mlruns/0/models/m-237f566f227d42e6928f29471e46abd5/artifacts
+creation_timestamp: 1750392915089
+experiment_id: '0'
+last_updated_timestamp: 1750392916817
+model_id: m-237f566f227d42e6928f29471e46abd5
+model_type: null
+name: model
+source_run_id: 950838fad8be430ea97c945e59ed002e
+status: 2
+status_message: null

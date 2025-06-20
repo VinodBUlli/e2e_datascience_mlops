@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/e2e_datascience_mlops/mlruns/0/81f5a4756aa943bca6d90a184e026135/artifacts
+end_time: 1750394617280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81f5a4756aa943bca6d90a184e026135
+run_name: orderly-shrew-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750394614656
+status: 3
+tags: []
+user_id: Vinod Ulli
